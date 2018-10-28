@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-request",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.2",
+    "cheerio": "^1.0.0-rc.2",
+    "lodash": "^4.17.11",
+    "request": "^2.88.0",
+    "winston": "^2.4.4"
+  }
+}
