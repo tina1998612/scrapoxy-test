@@ -12,8 +12,12 @@
   "dependencies": {
     "bluebird": "^3.5.2",
     "cheerio": "^1.0.0-rc.2",
+    "fs": "0.0.1-security",
     "lodash": "^4.17.11",
+    "price-finder": "^5.0.0",
+    "randomstring": "^1.1.5",
     "request": "^2.88.0",
+    "tor-request": "^2.3.0",
     "winston": "^2.4.4"
   }
 }
